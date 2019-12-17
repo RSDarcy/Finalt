@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jdbc:h2:tcp://localhost/~/final" uuid="3f96cbd0-47fb-45e1-8406-294b34479bed">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:tcp://localhost/~/final</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="UnidadPersistencia/Hibernate" uuid="4cd496f0-a7c2-4dcc-b9a1-6bc8163d308e">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/Rose/IdeaProjects/webfinal/src/main/resources/META-INF/persistence.xml</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:tcp://localhost/~/final</jdbc-url>
+    </data-source>
+  </component>
+</project>
