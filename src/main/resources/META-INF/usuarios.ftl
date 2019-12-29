@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <link rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap.tagsinput/0.4.2/bootstrap-tagsinput.css"/>
-    <title>Acortador URL - Final Web1 - 2014-0984</title>
+    <title>Acortador URL - Final Web1</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
