@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d9e23fb-6db5-45cb-b599-d84a1baae71f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/rsjl.pucmm.webfinal.webfinal.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/lugi.pucmm.webfinal.webfinal.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webfinal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webfinal.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/template/css/blog-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/css/blog-login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/template/css/my-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/css/my-login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/template/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/template/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,6 +234,8 @@
       <workItem from="1577441619787" duration="23000" />
       <workItem from="1577648105039" duration="27000" />
       <workItem from="1577648175462" duration="3576000" />
+      <workItem from="1577664970641" duration="501000" />
+      <workItem from="1577665741838" duration="753000" />
     </task>
     <task id="LOCAL-00001" summary="Trabajando con Rest">
       <created>1576540076907</created>
@@ -263,14 +271,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Actualizando CSS" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="394" y="20" width="587" height="729" key="#Main" timestamp="1577648605959">
+    <state x="394" y="20" width="587" height="729" key="#Main" timestamp="1577665195580">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="394" y="20" width="587" height="729" key="#Main/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577648605959" />
-    <state x="268" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577650340925">
+    <state x="394" y="20" width="587" height="729" key="#Main/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665195579" />
+    <state x="-9" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577665891691">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="268" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577650340925" />
+    <state x="-9" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665891691" />
     <state x="360" y="113" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577648113403">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
@@ -279,120 +287,45 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="290" y="0" key="CommitChangelistDialog2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577651682520" />
-    <state width="1280" height="154" key="GridCell.Tab.0.bottom" timestamp="1577651577431">
+    <state x="460" y="126" key="FileChooserDialogImpl" timestamp="1577665408126">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1280" height="154" key="GridCell.Tab.0.bottom/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577651577431" />
-    <state width="1280" height="154" key="GridCell.Tab.0.center" timestamp="1577651577431">
+    <state x="460" y="126" key="FileChooserDialogImpl/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665408126" />
+    <state width="658" height="153" key="GridCell.Tab.0.bottom" timestamp="1577665475073">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1280" height="154" key="GridCell.Tab.0.center/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577651577431" />
-    <state width="1280" height="154" key="GridCell.Tab.0.left" timestamp="1577651577430">
+    <state width="658" height="153" key="GridCell.Tab.0.bottom/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665475073" />
+    <state width="658" height="153" key="GridCell.Tab.0.center" timestamp="1577665475072">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1280" height="154" key="GridCell.Tab.0.left/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577651577430" />
-    <state width="1280" height="154" key="GridCell.Tab.0.right" timestamp="1577651577431">
+    <state width="658" height="153" key="GridCell.Tab.0.center/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665475072" />
+    <state width="658" height="153" key="GridCell.Tab.0.left" timestamp="1577665475072">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1280" height="154" key="GridCell.Tab.0.right/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577651577431" />
+    <state width="658" height="153" key="GridCell.Tab.0.left/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665475072" />
+    <state width="658" height="153" key="GridCell.Tab.0.right" timestamp="1577665475073">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state width="658" height="153" key="GridCell.Tab.0.right/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665475073" />
     <state width="216" height="539" key="HiddenNamespacesPopup" timestamp="1577650662536">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state width="216" height="539" key="HiddenNamespacesPopup/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577650662536" />
+    <state x="160" y="0" key="SettingsEditor" timestamp="1577665435579">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="160" y="0" key="SettingsEditor/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665435579" />
     <state x="272" y="114" key="Vcs.Push.Dialog.v2" timestamp="1577650880997">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="272" y="114" key="Vcs.Push.Dialog.v2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577650880997" />
-    <state x="376" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1577648204204">
+    <state x="376" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1577665744581">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="376" y="209" key="com.intellij.ide.util.TipDialog/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577648204204" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>JPA</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>webfinal</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Gradle: junit:junit:4.12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <state x="376" y="209" key="com.intellij.ide.util.TipDialog/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665744581" />
+    <state x="338" y="158" key="git4idea.merge.GitPullDialog" timestamp="1577665055176">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="338" y="158" key="git4idea.merge.GitPullDialog/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665055176" />
   </component>
 </project>
