@@ -3,7 +3,7 @@ html,body {
 }
 
 body.my-login-page {
-	background-color: #3880fb;
+	background-color: #f7f9fb;
 	font-size: 14px;
 }
 
@@ -14,7 +14,7 @@ body.my-login-page {
 	border-radius: 50%;
 	margin: 0 auto;
 	margin: 40px auto;
-	box-shadow: 0 0 40px rgba(0,0,0,.05);
+	box-shadow: 0 0 40px rgba(147, 74, 74, 0.05);
 }
 
 .my-login-page .brand img {
@@ -27,7 +27,7 @@ body.my-login-page {
 
 .my-login-page .card {
 	border-color: transparent;
-	box-shadow: 0 0 40px rgba(0,0,0,.05);
+	box-shadow: 0 0 40px rgba(147, 74, 74, 0.05);
 }
 
 .my-login-page .card.fat {
@@ -60,6 +60,6 @@ body.my-login-page {
 
 .my-login-page .footer {
 	margin: 40px 0;
-	color: #888;
+	color: #ccbab1;
 	text-align: center;
 }

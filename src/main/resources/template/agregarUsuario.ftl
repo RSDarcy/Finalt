@@ -42,12 +42,12 @@
 
                     <div class="form-group">
                         <label>Nombre</label>
-                        <input type="text" class="form-control" rows="3" placeholder="name" name="nombre" required>
+                        <input type="text" class="form-control" rows="3" placeholder="John Doe" name="nombre" required>
                     </div>
 
                     <div class="form-group">
                         <label>Password</label>
-                        <input type="password" id="password" class="form-control" rows="3" placeholder="password" name="pass" required
+                        <input type="password" id="password" class="form-control" rows="3" name="pass" required
                                data-eye>
                     </div>
 
