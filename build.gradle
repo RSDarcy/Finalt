@@ -2,7 +2,7 @@ apply plugin: 'java'
 apply plugin: 'application'
 apply plugin: 'com.github.johnrengelman.shadow'
 
-group 'lugi.pucmm.webfinal'
+group 'rsjl.pucmm.webfinal'
 version '1.0-SNAPSHOT'
 
 buildscript {

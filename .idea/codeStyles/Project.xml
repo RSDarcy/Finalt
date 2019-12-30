@@ -24,6 +24,7 @@
         <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
       </formatting-settings>
     </DBN-SQL>
+<<<<<<< HEAD
     <DBN-PSQL>
       <case-options enabled="true">
         <option name="KEYWORD_CASE" value="lower" />
@@ -48,5 +49,7 @@
         <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
       </formatting-settings>
     </DBN-SQL>
+=======
+>>>>>>> 32c4c48cd4997a7412699af120309976999ecd7d
   </code_scheme>
 </component>
