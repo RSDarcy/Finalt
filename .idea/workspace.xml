@@ -2,58 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d9e23fb-6db5-45cb-b599-d84a1baae71f" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PfinalWeb.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/webfinal.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/webfinal.main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dao/Implementations/RutaDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dao/Implementations/UsuarioDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dao/Implementations/VisitaDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dao/interfaces/RutaDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dao/interfaces/UsuarioDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/dao/interfaces/VisitaDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/encapsulacion/Ruta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/encapsulacion/Usuario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/encapsulacion/Visita.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/EntityServices/RutaService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/EntityServices/UsuarioService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/EntityServices/VisitaService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/utils/CRUD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/utils/Crypto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/utils/DBService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/utils/Filtros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/utils/Rest/JsonUtilidades.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/utils/SOAP/Arranque.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/utils/SOAP/UsuarioSOAP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/utils/TokenService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/utils/shortRuta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/META-INF/usuarios.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/META-INF/usuarios.ftl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/template/agregarUsuario.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/agregarUsuario.ftl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/resources/template/css/blog-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/css/blog-login.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/resources/template/css/my-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/css/my-login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/template/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/usuarios.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/usuarios.ftl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/template/agregarUsuario.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/agregarUsuario.ftl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/template/css/blog-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/css/blog-login.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/template/css/my-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/css/my-login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/template/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/css/style.css" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/rsjl.pucmm.webfinal.webfinal.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/lugi.pucmm.webfinal.webfinal.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webfinal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webfinal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/template/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/css/style.css" afterDir="false" />
->>>>>>> 32c4c48cd4997a7412699af120309976999ecd7d
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -285,12 +239,11 @@
       <workItem from="1577648175462" duration="2145000" />
       <workItem from="1577656480762" duration="5115000" />
       <workItem from="1577648175462" duration="3576000" />
-<<<<<<< HEAD
       <workItem from="1577668530249" duration="277000" />
-=======
       <workItem from="1577664970641" duration="501000" />
       <workItem from="1577665741838" duration="753000" />
->>>>>>> 32c4c48cd4997a7412699af120309976999ecd7d
+      <workItem from="1577669082225" duration="1419000" />
+      <workItem from="1577754336107" duration="1084000" />
     </task>
     <task id="LOCAL-00001" summary="Trabajando con Rest">
       <created>1576540076907</created>
@@ -324,7 +277,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

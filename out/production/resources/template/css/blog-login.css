@@ -38,11 +38,8 @@ form {
     left: 0;
     right: 0;
     bottom: 0;
-<<<<<<< HEAD
     background-color: #0062cccc;
-=======
     background-color: #ccbab1;
->>>>>>> 23e5f3647d4b8336ef4e9b68f412c20afb058169
     -webkit-transition: .4s;
     transition: .4s;
 }
