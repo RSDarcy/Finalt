@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d9e23fb-6db5-45cb-b599-d84a1baae71f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/rsjl.pucmm.webfinal.webfinal.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/lugi.pucmm.webfinal.webfinal.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webfinal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webfinal.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/template/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577651683810</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Actualizadon grupo y classpath">
+      <created>1577851415173</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577851415173</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +266,8 @@
     <MESSAGE value="Trabajando con Rest" />
     <MESSAGE value="Trabajando con Soap" />
     <MESSAGE value="Actualizando CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actualizando CSS" />
+    <MESSAGE value="Actualizadon grupo y classpath" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizadon grupo y classpath" />
   </component>
   <component name="WindowStateProjectService">
     <state x="394" y="20" width="587" height="729" key="#Main" timestamp="1577665195580">
@@ -283,10 +282,10 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="360" y="113" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577648113403" />
-    <state x="290" y="0" key="CommitChangelistDialog2" timestamp="1577651682520">
+    <state x="290" y="0" key="CommitChangelistDialog2" timestamp="1577851409786">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="290" y="0" key="CommitChangelistDialog2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577651682520" />
+    <state x="290" y="0" key="CommitChangelistDialog2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577851409786" />
     <state x="460" y="126" key="FileChooserDialogImpl" timestamp="1577665408126">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
@@ -315,14 +314,18 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="160" y="0" key="SettingsEditor/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665435579" />
-    <state x="272" y="114" key="Vcs.Push.Dialog.v2" timestamp="1577650880997">
+    <state x="272" y="114" key="Vcs.Push.Dialog.v2" timestamp="1577851418940">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="272" y="114" key="Vcs.Push.Dialog.v2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577650880997" />
+    <state x="272" y="114" key="Vcs.Push.Dialog.v2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577851418940" />
     <state x="376" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1577665744581">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="376" y="209" key="com.intellij.ide.util.TipDialog/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665744581" />
+    <state x="487" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577851454787">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="487" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577851454787" />
     <state x="338" y="158" key="git4idea.merge.GitPullDialog" timestamp="1577665055176">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
