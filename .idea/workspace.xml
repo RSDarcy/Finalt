@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d9e23fb-6db5-45cb-b599-d84a1baae71f" name="Default Changelist" comment="">
-    	    <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/template/css/blog-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/css/blog-login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/template/css/my-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/css/my-login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/template/css/blog-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/css/blog-login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/template/css/my-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/css/my-login.css" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,18 +175,6 @@
       <recent name="C:\Users\Lugi\Desktop\webfinal\src\main\resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -218,6 +200,18 @@
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -321,22 +315,22 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="460" y="126" key="FileChooserDialogImpl/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665408126" />
-    <state width="658" height="153" key="GridCell.Tab.0.bottom" timestamp="1577665475073">
+    <state width="1317" height="216" key="GridCell.Tab.0.bottom" timestamp="1577879722049">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="658" height="153" key="GridCell.Tab.0.bottom/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665475073" />
-    <state width="658" height="153" key="GridCell.Tab.0.center" timestamp="1577665475072">
+    <state width="1317" height="216" key="GridCell.Tab.0.bottom/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577879722049" />
+    <state width="1317" height="216" key="GridCell.Tab.0.center" timestamp="1577879722048">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="658" height="153" key="GridCell.Tab.0.center/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665475072" />
-    <state width="658" height="153" key="GridCell.Tab.0.left" timestamp="1577665475072">
+    <state width="1317" height="216" key="GridCell.Tab.0.center/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577879722048" />
+    <state width="1317" height="216" key="GridCell.Tab.0.left" timestamp="1577879722048">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="658" height="153" key="GridCell.Tab.0.left/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665475072" />
-    <state width="658" height="153" key="GridCell.Tab.0.right" timestamp="1577665475073">
+    <state width="1317" height="216" key="GridCell.Tab.0.left/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577879722048" />
+    <state width="1317" height="216" key="GridCell.Tab.0.right" timestamp="1577879722048">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="658" height="153" key="GridCell.Tab.0.right/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665475073" />
+    <state width="1317" height="216" key="GridCell.Tab.0.right/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577879722048" />
     <state width="216" height="539" key="HiddenNamespacesPopup" timestamp="1577650662536">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
