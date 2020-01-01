@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d9e23fb-6db5-45cb-b599-d84a1baae71f" name="Default Changelist" comment="">
+    	    <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/template/css/blog-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/css/blog-login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/template/css/my-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/css/my-login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/template/css/blog-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/css/blog-login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/template/css/my-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/css/my-login.css" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -125,6 +135,9 @@
       </set>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1VYswf2cXEnqrBJWocCJhaMFvUZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -168,6 +181,18 @@
       <recent name="C:\Users\Lugi\Desktop\webfinal\src\main\resources" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -194,18 +219,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -224,9 +237,14 @@
       <workItem from="1577439041048" duration="812000" />
       <workItem from="1577441619787" duration="23000" />
       <workItem from="1577648105039" duration="27000" />
+      <workItem from="1577648175462" duration="2145000" />
+      <workItem from="1577656480762" duration="5115000" />
       <workItem from="1577648175462" duration="3576000" />
+      <workItem from="1577668530249" duration="277000" />
       <workItem from="1577664970641" duration="501000" />
       <workItem from="1577665741838" duration="753000" />
+      <workItem from="1577669082225" duration="1419000" />
+      <workItem from="1577754336107" duration="1084000" />
     </task>
     <task id="LOCAL-00001" summary="Trabajando con Rest">
       <created>1576540076907</created>
@@ -261,6 +279,19 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Trabajando con Rest" />
