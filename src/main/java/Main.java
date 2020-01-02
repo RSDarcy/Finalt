@@ -18,15 +18,21 @@ import modelo.EntityServices.utils.TokenService;
 
 import spark.ModelAndView;
 import spark.Session;
+import spark.Spark;
 import spark.template.freemarker.FreeMarkerEngine;
 
 import javax.servlet.http.HttpServletRequest;
 import java.util.*;
-
+import java.io.StringWriter;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+import static spark.Spark.staticFiles;
 import static spark.Spark.*;
 
 @SuppressWarnings("Duplicates")
 public class Main {
+
     //    public static Usuario usuario;
     static final String iv = "0123456789123456"; // This has to be 16 characters
     static final String secretKeyUSer = "qwerty987654321";
@@ -41,7 +47,16 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
 
+
         staticFiles.location("/template");
+        ProcessBuilder process = new ProcessBuilder();
+        int port;
+        if(process.environment().get("PORT")!=null){
+            port = Integer.parseInt(process.environment().get("PORT")) ;
+        }else{
+            port=4567;
+        }
+        Spark.port(port);
 
         DBService.getInstancia().iniciarDn();
         //Entrando el admin

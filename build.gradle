@@ -15,7 +15,7 @@ buildscript {
 }
 sourceCompatibility = 1.8
 
-mainClassName = 'Main'
+mainClassName = 'main/Main'
 
 repositories {
     mavenCentral()
@@ -44,5 +44,12 @@ dependencies {
 }
 
 shadowJar {
+    baseName = 'WebFinal'
+    classifier = null
+    version = null
     version = 0.1
+}
+
+task stage {
+    dependsOn shadowJar
 }
