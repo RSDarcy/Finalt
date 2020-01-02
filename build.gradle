@@ -44,7 +44,7 @@ dependencies {
 }
 
 shadowJar {
-    baseName = 'WebFinal'
+    baseName = 'webfinal'
     classifier = null
     version = null
     version = 0.1
