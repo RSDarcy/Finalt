@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d9e23fb-6db5-45cb-b599-d84a1baae71f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/template/css/blog-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/css/blog-login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/template/css/my-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/css/my-login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/template/css/blog-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/css/blog-login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/template/css/my-login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/css/my-login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/utils/TokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/utils/TokenService.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,29 +96,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>jquery/jquery.min.js</find>
-      <find>jq</find>
-      <find>&lt;</find>
-      <find>stats</find>
-      <find>adminpan</find>
-      <find>iniciarSesion</find>
-      <find>session</find>
-      <find>filtros</find>
-      <find>sess</find>
-      <find>cookie</find>
-      <find>request</find>
-      <find>visitas</find>
-      <find>ruta</find>
-      <find>rutaservice.dele</find>
-      <find>admin</find>
-      <find>update</find>
-      <find>corto</find>
-      <find>short</find>
-      <find>agregar</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -243,7 +216,9 @@
       <workItem from="1577664970641" duration="501000" />
       <workItem from="1577665741838" duration="753000" />
       <workItem from="1577669082225" duration="1419000" />
-      <workItem from="1577754336107" duration="1084000" />
+      <workItem from="1577754336107" duration="2629000" />
+      <workItem from="1577982544535" duration="2019000" />
+      <workItem from="1578005257081" duration="997000" />
     </task>
     <task id="LOCAL-00001" summary="Trabajando con Rest">
       <created>1576540076907</created>
