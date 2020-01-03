@@ -1,1 +1,1 @@
-web: java -jar build/libs/webfinal-0.1-all.jar
+web:java -jar build/libs/webfinal-0.1-all.jar
