@@ -68,8 +68,8 @@
                         },
                         hAxis: {
                             ticks: [
-                                new Date(2019, 4, 12),
-                                new Date(2019, 4, 13)
+                                new Date(2019, 12, 12),
+                                new Date(2019, 12, 13)
                             ]
                         },
                         vAxis: {

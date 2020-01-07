@@ -374,7 +374,7 @@ public class Main {
                 get("/:id", (request, response) -> {
                     Usuario usuario = usuarioService.getById(Integer.parseInt(request.params("id")));
                     if (usuario == null) {
-                        throw new RuntimeException("No existe el cliente");
+                        throw new RuntimeException("No existe");
                     }
                     return usuario;
                 }, JsonUtilidades.json());
@@ -421,7 +421,7 @@ public class Main {
                 get("/:id", (request, response) -> {
                     Ruta ruta = rutaService.getById(Integer.parseInt(request.params("id")));
                     if (ruta == null) {
-                        throw new RuntimeException("No existe el cliente");
+                        throw new RuntimeException("No existe");
                     }
                     return ruta;
                 }, JsonUtilidades.json());
@@ -475,7 +475,7 @@ public class Main {
 
                     Visita visita = visitaService.getById(Integer.parseInt(request.params("id")));
                     if (visita == null) {
-                        throw new RuntimeException("No existe el cliente");
+                        throw new RuntimeException("No existe");
                     }
                     return visita;
                 }, JsonUtilidades.json());
