@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d9e23fb-6db5-45cb-b599-d84a1baae71f" name="Default Changelist" comment="Working with Soap">
+    <list default="true" id="0d9e23fb-6db5-45cb-b599-d84a1baae71f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/template/stats.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/stats.ftl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/template/stats.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/stats.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,48 +27,7 @@
     <expand>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="jdbc:h2:tcp://localhost/~/final" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="jdbc:h2:tcp://localhost/~/final" type="feb32156:DbDataSourceImpl" />
-        <item name="FINAL: database" type="2aa06773:H2ImplModel$Database" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="jdbc:h2:tcp://localhost/~/final" type="feb32156:DbDataSourceImpl" />
-        <item name="FINAL: database" type="2aa06773:H2ImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="jdbc:h2:tcp://localhost/~/final" type="feb32156:DbDataSourceImpl" />
-        <item name="FINAL: database" type="2aa06773:H2ImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="PUBLIC: schema" type="7f85d983:H2ImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="jdbc:h2:tcp://localhost/~/final" type="feb32156:DbDataSourceImpl" />
-        <item name="FINAL: database" type="2aa06773:H2ImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="PUBLIC: schema" type="7f85d983:H2ImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="jdbc:h2:tcp://localhost/~/final" type="feb32156:DbDataSourceImpl" />
-        <item name="FINAL: database" type="2aa06773:H2ImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="PUBLIC: schema" type="7f85d983:H2ImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="VISITA: table" type="818c1b4a:H2ImplModel$Table" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="jdbc:h2:tcp://localhost/~/final" type="feb32156:DbDataSourceImpl" />
-        <item name="FINAL: database" type="2aa06773:H2ImplModel$Database" />
-        <item name="roles" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="UnidadPersistencia/Hibernate" type="feb32156:DbDataSourceImpl" />
       </path>
     </expand>
     <select />
@@ -196,12 +152,7 @@
       <list>
         <serviceView>
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:UnidadPersistencia/Hibernate" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -234,7 +185,16 @@
       <workItem from="1577665741838" duration="753000" />
       <workItem from="1577669082225" duration="1419000" />
       <workItem from="1577754336107" duration="1084000" />
-      <workItem from="1578355655253" duration="207000" />
+      <workItem from="1578355655253" duration="2441000" />
+      <workItem from="1583195497021" duration="67000" />
+      <workItem from="1583701035258" duration="1784000" />
+      <workItem from="1584414804236" duration="1595000" />
+      <workItem from="1584584570894" duration="611000" />
+      <workItem from="1584586672494" duration="615000" />
+      <workItem from="1585540139892" duration="57000" />
+      <workItem from="1585550568927" duration="8253000" />
+      <workItem from="1585589501016" duration="2918000" />
+      <workItem from="1585618952147" duration="4967000" />
     </task>
     <task id="LOCAL-00001" summary="Trabajando con Rest">
       <created>1576540076907</created>
@@ -264,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577851415173</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Working with fixing errors">
+      <created>1578355900194</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578355900194</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,17 +255,18 @@
     <MESSAGE value="Trabajando con Soap" />
     <MESSAGE value="Actualizando CSS" />
     <MESSAGE value="Actualizadon grupo y classpath" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actualizadon grupo y classpath" />
+    <MESSAGE value="Working with fixing errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with fixing errors" />
   </component>
   <component name="WindowStateProjectService">
     <state x="394" y="20" width="587" height="729" key="#Main" timestamp="1577665195580">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="394" y="20" width="587" height="729" key="#Main/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665195579" />
-    <state x="272" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578352168265">
+    <state x="272" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585602930077">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="272" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1578352168265" />
+    <state x="272" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585602930077" />
     <state x="360" y="113" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577648113403">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
@@ -307,14 +275,14 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="471" y="255" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1578021693265" />
-    <state x="290" y="0" key="CommitChangelistDialog2" timestamp="1577851409786">
+    <state x="290" y="0" key="CommitChangelistDialog2" timestamp="1578355896350">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="290" y="0" key="CommitChangelistDialog2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577851409786" />
-    <state x="460" y="126" key="FileChooserDialogImpl" timestamp="1577665408126">
+    <state x="290" y="0" key="CommitChangelistDialog2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1578355896350" />
+    <state x="460" y="126" key="FileChooserDialogImpl" timestamp="1583195565698">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="460" y="126" key="FileChooserDialogImpl/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665408126" />
+    <state x="460" y="126" key="FileChooserDialogImpl/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1583195565698" />
     <state width="1317" height="148" key="GridCell.Tab.0.bottom" timestamp="1578355574618">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
@@ -343,18 +311,18 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="272" y="114" key="Vcs.Push.Dialog.v2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577851418940" />
-    <state x="376" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1578355853430">
+    <state x="376" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1584414818238">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="376" y="209" key="com.intellij.ide.util.TipDialog/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1578355853430" />
+    <state x="376" y="209" key="com.intellij.ide.util.TipDialog/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1584414818238" />
     <state x="487" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578355856717">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="487" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1578355856717" />
-    <state x="263" y="-3" width="627" height="768" key="find.popup" timestamp="1578354330375">
+    <state x="263" y="-3" width="627" height="768" key="find.popup" timestamp="1585625419927">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="263" y="-3" width="627" height="768" key="find.popup/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1578354330375" />
+    <state x="263" y="-3" width="627" height="768" key="find.popup/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585625419927" />
     <state x="338" y="158" key="git4idea.merge.GitPullDialog" timestamp="1577665055176">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
