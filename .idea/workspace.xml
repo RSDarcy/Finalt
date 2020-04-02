@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d9e23fb-6db5-45cb-b599-d84a1baae71f" name="Default Changelist" comment="" />
+    <list default="true" id="0d9e23fb-6db5-45cb-b599-d84a1baae71f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,7 +193,9 @@
       <workItem from="1585540139892" duration="57000" />
       <workItem from="1585550568927" duration="8253000" />
       <workItem from="1585589501016" duration="2918000" />
-      <workItem from="1585618952147" duration="5227000" />
+      <workItem from="1585618952147" duration="6026000" />
+      <workItem from="1585721962897" duration="2157000" />
+      <workItem from="1585747231203" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="Trabajando con Rest">
       <created>1576540076907</created>
@@ -235,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585626250952</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Working with fixing errors">
+      <created>1585626301548</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585626301548</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,10 +290,10 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="471" y="255" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1578021693265" />
-    <state x="290" y="0" key="CommitChangelistDialog2" timestamp="1585626247761">
+    <state x="290" y="0" key="CommitChangelistDialog2" timestamp="1585626299902">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="290" y="0" key="CommitChangelistDialog2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585626247761" />
+    <state x="290" y="0" key="CommitChangelistDialog2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585626299902" />
     <state x="460" y="126" key="FileChooserDialogImpl" timestamp="1583195565698">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
@@ -311,14 +322,14 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="160" y="0" key="SettingsEditor/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665435579" />
-    <state x="272" y="114" key="Vcs.Push.Dialog.v2" timestamp="1577851418940">
+    <state x="272" y="114" key="Vcs.Push.Dialog.v2" timestamp="1585626306599">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="272" y="114" key="Vcs.Push.Dialog.v2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577851418940" />
-    <state x="376" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1584414818238">
+    <state x="272" y="114" key="Vcs.Push.Dialog.v2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585626306599" />
+    <state x="376" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1585747261299">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="376" y="209" key="com.intellij.ide.util.TipDialog/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1584414818238" />
+    <state x="376" y="209" key="com.intellij.ide.util.TipDialog/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585747261299" />
     <state x="487" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585626265059">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
