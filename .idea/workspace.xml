@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0d9e23fb-6db5-45cb-b599-d84a1baae71f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/utils/DBService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/utils/DBService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +106,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="duplicates.index" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -196,6 +197,8 @@
       <workItem from="1585618952147" duration="6026000" />
       <workItem from="1585721962897" duration="2157000" />
       <workItem from="1585747231203" duration="37000" />
+      <workItem from="1585867279871" duration="2951000" />
+      <workItem from="1585871159102" duration="201000" />
     </task>
     <task id="LOCAL-00001" summary="Trabajando con Rest">
       <created>1576540076907</created>
@@ -298,30 +301,30 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="460" y="126" key="FileChooserDialogImpl/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1583195565698" />
-    <state width="1317" height="148" key="GridCell.Tab.0.bottom" timestamp="1578355574618">
+    <state width="1315" height="148" key="GridCell.Tab.0.bottom" timestamp="1585867532732">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="148" key="GridCell.Tab.0.bottom/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1578355574618" />
-    <state width="1317" height="148" key="GridCell.Tab.0.center" timestamp="1578355574617">
+    <state width="1315" height="148" key="GridCell.Tab.0.bottom/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585867532732" />
+    <state width="1315" height="148" key="GridCell.Tab.0.center" timestamp="1585867532732">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="148" key="GridCell.Tab.0.center/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1578355574617" />
-    <state width="1317" height="148" key="GridCell.Tab.0.left" timestamp="1578355574617">
+    <state width="1315" height="148" key="GridCell.Tab.0.center/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585867532732" />
+    <state width="1315" height="148" key="GridCell.Tab.0.left" timestamp="1585867532731">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="148" key="GridCell.Tab.0.left/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1578355574617" />
-    <state width="1317" height="148" key="GridCell.Tab.0.right" timestamp="1578355574617">
+    <state width="1315" height="148" key="GridCell.Tab.0.left/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585867532731" />
+    <state width="1315" height="148" key="GridCell.Tab.0.right" timestamp="1585867532732">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="148" key="GridCell.Tab.0.right/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1578355574617" />
+    <state width="1315" height="148" key="GridCell.Tab.0.right/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585867532732" />
     <state width="216" height="539" key="HiddenNamespacesPopup" timestamp="1577650662536">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state width="216" height="539" key="HiddenNamespacesPopup/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577650662536" />
-    <state x="160" y="0" key="SettingsEditor" timestamp="1577665435579">
+    <state x="160" y="0" key="SettingsEditor" timestamp="1585869972005">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="160" y="0" key="SettingsEditor/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1577665435579" />
+    <state x="160" y="0" key="SettingsEditor/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585869972005" />
     <state x="272" y="114" key="Vcs.Push.Dialog.v2" timestamp="1585626306599">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
