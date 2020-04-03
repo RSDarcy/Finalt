@@ -14,7 +14,7 @@ public class VisitaService implements VisitaDAO {
         visitaDAO = new VisitaDAOImpl(Visita.class);
     }
 
-    public static VisitaService getInstancia() {
+    public static VisitaService getInstance() {
         if (instancia == null)
             instancia = new VisitaService();
         return instancia;

@@ -31,9 +31,9 @@ public class UsuarioDAOImpl extends CRUD<Usuario> implements UsuarioDAO {
 
     @Override
     public void delete(Usuario e) {
-        List<Ruta> r = RutaService.getInstancia().getByUser(e.getId());
+        List<Ruta> r = RutaService.getInstance().getByUser(e.getId());
         for (Ruta rd : r) {
-            RutaService.getInstancia().delete(rd);
+            RutaService.getInstance().delete(rd);
         }
         eliminar(e.getId());
     }

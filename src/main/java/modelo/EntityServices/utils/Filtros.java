@@ -51,7 +51,7 @@ public class Filtros {
             String id = request.params("id");
             long userid = Integer.parseInt(id);
             long rutaid = Integer.parseInt(ruta);
-            if (usuario == null /*|| usuario.getId() == RutaService.getInstancia().getById(rutaid).getUsuario().getId() */||!usuario.getAdministrator()) {
+            if (usuario == null /*|| usuario.getId() == RutaService.getInstance().getById(rutaid).getUsuario().getId() */||!usuario.getAdministrator()) {
                 response.redirect("/inicio/1");
             }
         });

@@ -15,7 +15,7 @@ import java.util.Set;
 public class UsuarioSOAP {
     @WebMethod
     public List<Ruta> getUrl(Long usuario) {
-        RutaService rutaService = RutaService.getInstancia();
+        RutaService rutaService = RutaService.getInstance();
         List<Ruta> rutaList = rutaService.getByUser(usuario);
         return rutaList;
     }

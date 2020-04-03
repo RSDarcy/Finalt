@@ -3,7 +3,28 @@
   <component name="ChangeListManager">
     <list default="true" id="0d9e23fb-6db5-45cb-b599-d84a1baae71f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/utils/DBService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/utils/DBService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/dao/Implementations/RutaDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/dao/Implementations/RutaDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/dao/Implementations/UsuarioDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/dao/Implementations/UsuarioDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/EntityServices/RutaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/EntityServices/RutaService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/EntityServices/UsuarioService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/EntityServices/UsuarioService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/EntityServices/VisitaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/EntityServices/VisitaService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/utils/DBService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/utils/DBService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/utils/SOAP/UsuarioSOAP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/modelo/EntityServices/utils/SOAP/UsuarioSOAP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/template/admin_panel.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/admin_panel.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/template/inicio.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/inicio.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/template/links_usuario.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/template/links_usuario.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/Implementations/RutaDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/Implementations/RutaDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/Implementations/UsuarioDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/Implementations/UsuarioDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/EntityServices/RutaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/EntityServices/RutaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/EntityServices/UsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/EntityServices/UsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/EntityServices/VisitaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/EntityServices/VisitaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/utils/Filtros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/utils/Filtros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/utils/SOAP/UsuarioSOAP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modelo/EntityServices/utils/SOAP/UsuarioSOAP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/template/admin_panel.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/admin_panel.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/template/inicio.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/inicio.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/template/links_usuario.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/links_usuario.ftl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +219,7 @@
       <workItem from="1585721962897" duration="2157000" />
       <workItem from="1585747231203" duration="37000" />
       <workItem from="1585867279871" duration="2951000" />
-      <workItem from="1585871159102" duration="201000" />
+      <workItem from="1585871159102" duration="1315000" />
     </task>
     <task id="LOCAL-00001" summary="Trabajando con Rest">
       <created>1576540076907</created>
@@ -301,22 +322,22 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="460" y="126" key="FileChooserDialogImpl/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1583195565698" />
-    <state width="1315" height="148" key="GridCell.Tab.0.bottom" timestamp="1585867532732">
+    <state width="1315" height="115" key="GridCell.Tab.0.bottom" timestamp="1585872313597">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1315" height="148" key="GridCell.Tab.0.bottom/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585867532732" />
-    <state width="1315" height="148" key="GridCell.Tab.0.center" timestamp="1585867532732">
+    <state width="1315" height="115" key="GridCell.Tab.0.bottom/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585872313597" />
+    <state width="1315" height="115" key="GridCell.Tab.0.center" timestamp="1585872313597">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1315" height="148" key="GridCell.Tab.0.center/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585867532732" />
-    <state width="1315" height="148" key="GridCell.Tab.0.left" timestamp="1585867532731">
+    <state width="1315" height="115" key="GridCell.Tab.0.center/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585872313597" />
+    <state width="1315" height="115" key="GridCell.Tab.0.left" timestamp="1585872313597">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1315" height="148" key="GridCell.Tab.0.left/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585867532731" />
-    <state width="1315" height="148" key="GridCell.Tab.0.right" timestamp="1585867532732">
+    <state width="1315" height="115" key="GridCell.Tab.0.left/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585872313597" />
+    <state width="1315" height="115" key="GridCell.Tab.0.right" timestamp="1585872313597">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1315" height="148" key="GridCell.Tab.0.right/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585867532732" />
+    <state width="1315" height="115" key="GridCell.Tab.0.right/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585872313597" />
     <state width="216" height="539" key="HiddenNamespacesPopup" timestamp="1577650662536">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
@@ -337,10 +358,10 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="487" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585626265059" />
-    <state x="263" y="-3" width="627" height="768" key="find.popup" timestamp="1585625419927">
+    <state x="263" y="-3" width="758" height="768" key="find.popup" timestamp="1585872269776">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="263" y="-3" width="627" height="768" key="find.popup/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585625419927" />
+    <state x="263" y="-3" width="758" height="768" key="find.popup/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585872269776" />
     <state x="338" y="158" key="git4idea.merge.GitPullDialog" timestamp="1577665055176">
       <screen x="0" y="0" width="1360" height="768" />
     </state>

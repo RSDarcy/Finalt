@@ -11,7 +11,7 @@ public class RutaService implements RutaDAO {
     private static RutaService instancia;
     private RutaDAOImpl rutaDAO;
 
-    public static RutaService getInstancia() {
+    public static RutaService getInstance() {
         if (instancia == null)
             instancia = new RutaService();
         return instancia;

@@ -58,14 +58,14 @@ public class Main {
         }
         Spark.port(port);
 
-        DBService.getInstancia().iniciarDn();
+        DBService.getInstance().iniciarDn();
         //Entrando el admin
         Usuario usuarioStart = new Usuario("admin", "admin", "admin", true);
 
         //Clase que representa el servicio.
-        UsuarioService usuarioService = UsuarioService.getInstancia();
-        RutaService rutaService = RutaService.getInstancia();
-        VisitaService visitaService = VisitaService.getInstancia();
+        UsuarioService usuarioService = UsuarioService.getInstance();
+        RutaService rutaService = RutaService.getInstance();
+        VisitaService visitaService = VisitaService.getInstance();
 
         if (usuarioService.validateLogIn("admin", "admin") == null) {
             usuarioService.insert(usuarioStart);
@@ -97,7 +97,7 @@ public class Main {
                 String user = crypto.decrypt(llaveValor[0], iv, secretKeyUSer);
                 String contra = crypto.decrypt(llaveValor[1], iv, secretKeyContra);
 
-                Usuario usuario1 = UsuarioService.getInstancia().validateLogIn(user, contra);
+                Usuario usuario1 = UsuarioService.getInstance().validateLogIn(user, contra);
                 if (usuario1 != null) {
                     request.session(true);
                     request.session().attribute("usuario", usuario1);
@@ -115,7 +115,7 @@ public class Main {
 
             System.out.println(recordar);
             System.out.println(user + " pass : " + contra);
-            Usuario usuario1 = UsuarioService.getInstancia().validateLogIn(user, contra);
+            Usuario usuario1 = UsuarioService.getInstance().validateLogIn(user, contra);
 
             Map<String, Object> jsonResponse = new HashMap<>();
             if (usuario1 != null) {
@@ -239,9 +239,9 @@ public class Main {
             String nombre = request.queryParams("nombre");
             String pass = request.queryParams("pass");
             Usuario u = new Usuario(username, nombre, pass, false);
-            UsuarioService.getInstancia().insert(u);
+            UsuarioService.getInstance().insert(u);
             System.out.println(username + " pass : " + pass);
-            Usuario usuario1 = UsuarioService.getInstancia().validateLogIn(username, pass);
+            Usuario usuario1 = UsuarioService.getInstance().validateLogIn(username, pass);
             if (usuario1 != null) {
                 request.session(true);
                 request.session().attribute("usuario", usuario1);
@@ -254,7 +254,7 @@ public class Main {
             String link = request.queryParams("link");
             Usuario usuario = request.session().attribute("usuario");
             Ruta r = new Ruta(link, "rdarcysoftware.me/test", usuario);
-            RutaService.getInstancia().insert(r);
+            RutaService.getInstance().insert(r);
             shortUrl(r.getId());
             response.redirect("/inicio/1");
             return "";
@@ -539,7 +539,7 @@ public class Main {
     }
 
     public static void shortUrl(long ruta_id) {
-        Ruta old = RutaService.getInstancia().getById(ruta_id);
+        Ruta old = RutaService.getInstance().getById(ruta_id);
         String ruta_acortada = Long.toHexString(ruta_id);
         Ruta r;
         if (old.getRuta().contains("https://")) {
@@ -547,7 +547,7 @@ public class Main {
         } else {
              r = new Ruta(old.getId(), "https://" + old.getRuta(), ruta_acortada, old.getUsuario());
         }
-        RutaService.getInstancia().update(r);
+        RutaService.getInstance().update(r);
     }
 
 }

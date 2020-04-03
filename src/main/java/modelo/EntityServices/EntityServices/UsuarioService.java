@@ -9,7 +9,7 @@ import java.util.List;
 public class UsuarioService implements UsuarioDAO {
     private static UsuarioService instancia;
 
-    public static UsuarioService getInstancia() {
+    public static UsuarioService getInstance() {
         if (instancia == null)
             instancia = new UsuarioService();
 

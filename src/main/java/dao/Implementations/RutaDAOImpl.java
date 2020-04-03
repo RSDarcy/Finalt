@@ -28,10 +28,10 @@ public class RutaDAOImpl extends CRUD<Ruta> implements RutaDAO {
 
     @Override
     public void delete(Ruta e) {
-        List<Visita> v = VisitaService.getInstancia().getByRuta(e.getId());
+        List<Visita> v = VisitaService.getInstance().getByRuta(e.getId());
         for (Visita vd:v
              ) {
-            VisitaService.getInstancia().delete(vd);
+            VisitaService.getInstance().delete(vd);
         }
         eliminar(e.getId());
     }
