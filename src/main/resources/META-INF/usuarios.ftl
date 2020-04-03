@@ -144,7 +144,7 @@
 <!-- Footer -->
 <footer class="py-5 bg-dark">
     <div class="container">
-        <p class="m-0 text-center text-white"></p>
+        <p class="m-0 text-center text-white">Final Web</p>
     </div>
     <!-- /.container -->
 </footer>

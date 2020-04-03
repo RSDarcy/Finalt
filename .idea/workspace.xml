@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0d9e23fb-6db5-45cb-b599-d84a1baae71f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/usuarios.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/usuarios.ftl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +199,7 @@
       <workItem from="1585747231203" duration="37000" />
       <workItem from="1585867279871" duration="2951000" />
       <workItem from="1585871159102" duration="2579000" />
-      <workItem from="1585926886959" duration="380000" />
+      <workItem from="1585926886959" duration="2143000" />
     </task>
     <task id="LOCAL-00001" summary="Trabajando con Rest">
       <created>1576540076907</created>
@@ -337,10 +338,10 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="487" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585626265059" />
-    <state x="263" y="-3" width="758" height="768" key="find.popup" timestamp="1585927267608">
+    <state x="263" y="-3" width="758" height="768" key="find.popup" timestamp="1585929330693">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="263" y="-3" width="758" height="768" key="find.popup/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585927267608" />
+    <state x="263" y="-3" width="758" height="768" key="find.popup/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585929330693" />
     <state x="338" y="158" key="git4idea.merge.GitPullDialog" timestamp="1577665055176">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
