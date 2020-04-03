@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d9e23fb-6db5-45cb-b599-d84a1baae71f" name="Default Changelist" comment="" />
+    <list default="true" id="0d9e23fb-6db5-45cb-b599-d84a1baae71f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/template/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/template/vendor/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template/vendor/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +201,8 @@
       <workItem from="1585867279871" duration="2951000" />
       <workItem from="1585871159102" duration="2579000" />
       <workItem from="1585926886959" duration="2143000" />
-      <workItem from="1585933439088" duration="1233000" />
+      <workItem from="1585933439088" duration="1390000" />
+      <workItem from="1585939426080" duration="1624000" />
     </task>
     <task id="LOCAL-00001" summary="Trabajando con Rest">
       <created>1576540076907</created>
@@ -300,22 +305,22 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="460" y="126" key="FileChooserDialogImpl/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1583195565698" />
-    <state width="1315" height="115" key="GridCell.Tab.0.bottom" timestamp="1585872313597">
+    <state width="1315" height="115" key="GridCell.Tab.0.bottom" timestamp="1585935195601">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1315" height="115" key="GridCell.Tab.0.bottom/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585872313597" />
-    <state width="1315" height="115" key="GridCell.Tab.0.center" timestamp="1585872313597">
+    <state width="1315" height="115" key="GridCell.Tab.0.bottom/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585935195601" />
+    <state width="1315" height="115" key="GridCell.Tab.0.center" timestamp="1585935195600">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1315" height="115" key="GridCell.Tab.0.center/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585872313597" />
-    <state width="1315" height="115" key="GridCell.Tab.0.left" timestamp="1585872313597">
+    <state width="1315" height="115" key="GridCell.Tab.0.center/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585935195600" />
+    <state width="1315" height="115" key="GridCell.Tab.0.left" timestamp="1585935195600">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1315" height="115" key="GridCell.Tab.0.left/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585872313597" />
-    <state width="1315" height="115" key="GridCell.Tab.0.right" timestamp="1585872313597">
+    <state width="1315" height="115" key="GridCell.Tab.0.left/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585935195600" />
+    <state width="1315" height="115" key="GridCell.Tab.0.right" timestamp="1585935195601">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1315" height="115" key="GridCell.Tab.0.right/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585872313597" />
+    <state width="1315" height="115" key="GridCell.Tab.0.right/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585935195601" />
     <state width="216" height="539" key="HiddenNamespacesPopup" timestamp="1577650662536">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
@@ -336,10 +341,11 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="487" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585626265059" />
-    <state x="263" y="-3" width="758" height="768" key="find.popup" timestamp="1585934687226">
+    <state x="263" y="-3" width="929" height="768" key="find.popup" timestamp="1585940848999">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="263" y="-3" width="758" height="768" key="find.popup/-1600.66.1600.900/0.0.1360.768@0.0.1360.768" timestamp="1585934687226" />
+    <state x="263" y="-3" width="929" height="768" key="find.popup/0.0.1360.768@0.0.1360.768" timestamp="1585940848999" />
     <state x="338" y="158" key="git4idea.merge.GitPullDialog" timestamp="1577665055176">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
